@@ -1,4 +1,4 @@
-endangered-wildlife-habitat
+visualization of the geographic distribution of endangered wildlife species on Google Earth 
 
 A picture from the conference:
 https://www.instagram.com/p/BhZr41gAixk/?utm_source=ig_web_copy_link
